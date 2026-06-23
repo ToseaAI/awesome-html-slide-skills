@@ -28,15 +28,14 @@
 下面每张图都是对应项目自己的 demo，点击即可跳转到该条目。
 
 <table align="center"><tr>
-<td align="center" width="25%"><a href="#2-alchaincyfhuashu-design--13435"><img src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/c2-slides-pptx-en.gif" width="220" alt="huashu-design — slides + PPTX export"/></a><br><sub><b>huashu-design</b><br>13.4k ⭐</sub></td>
-<td align="center" width="25%"><a href="#3-nicobailonvisual-explainer--8164"><img src="https://raw.githubusercontent.com/nicobailon/visual-explainer/main/banner.png" width="220" alt="visual-explainer banner"/></a><br><sub><b>visual-explainer</b><br>8.2k ⭐</sub></td>
-<td align="center" width="25%"><a href="#5-lewisluluhtml-ppt-skill--3584"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/hero.gif" width="220" alt="html-ppt-skill hero"/></a><br><sub><b>html-ppt-skill</b><br>3.6k ⭐</sub></td>
-<td align="center" width="25%"><a href="#6-1weihoopen-slide--3163"><img src="https://github.com/user-attachments/assets/02f5e6d7-12a7-4a8e-88e7-ae8770a96584" width="220" alt="open-slide cover"/></a><br><sub><b>open-slide</b><br>3.2k ⭐</sub></td>
+<td align="center" width="25%"><a href="#2-alchaincyfhuashu-design--19547"><img src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/c2-slides-pptx-en.gif" width="220" alt="huashu-design — slides + PPTX export"/></a><br><sub><b>huashu-design</b><br>19.5k ⭐</sub></td>
+<td align="center" width="25%"><a href="#4-nicobailonvisual-explainer--8837"><img src="https://raw.githubusercontent.com/nicobailon/visual-explainer/main/banner.png" width="220" alt="visual-explainer banner"/></a><br><sub><b>visual-explainer</b><br>8.8k ⭐</sub></td>
+<td align="center" width="25%"><a href="#5-lewisluluhtml-ppt-skill--6411"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/hero.gif" width="220" alt="html-ppt-skill hero"/></a><br><sub><b>html-ppt-skill</b><br>6.4k ⭐</sub></td>
+<td align="center" width="25%"><a href="#6-1weihoopen-slide--5498"><img src="https://github.com/user-attachments/assets/02f5e6d7-12a7-4a8e-88e7-ae8770a96584" width="220" alt="open-slide cover"/></a><br><sub><b>open-slide</b><br>5.5k ⭐</sub></td>
 </tr><tr>
-<td align="center" width="25%"><a href="#10-bbostaiceaxi-front-design-skill--189"><img src="https://raw.githubusercontent.com/bbostaice/axi-front-design-skill/main/docs/assets/axi-front-design-motion-preview.gif" width="220" alt="axi-front-design motion preview"/></a><br><sub><b>axi-front-design-skill</b><br>189 ⭐</sub></td>
-<td align="center" width="25%"><a href="#12-archlizhengfrontend-slides-editable--125"><img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/bold-signal-cover.png" width="220" alt="bold-signal cover preset"/></a><br><sub><b>frontend-slides-editable</b><br>125 ⭐</sub></td>
-<td align="center" width="25%"><a href="#11-likakumck-ppt-design-skill--133"><img src="https://github.com/user-attachments/assets/075ec46d-dd73-4454-92d0-84184b78d276" width="220" alt="Mck-ppt-design cover slide"/></a><br><sub><b>Mck-ppt-design-skill</b><br>133 ⭐</sub></td>
-<td align="center" width="25%"><a href="#t1-zarazhangruibeautiful-html-templates--1038"><img src="https://raw.githubusercontent.com/zarazhangrui/beautiful-html-templates/main/screenshots/soft-editorial-4.png" width="220" alt="soft editorial template"/></a><br><sub><b>beautiful-html-templates</b><br>1k ⭐</sub></td>
+<td align="center" width="25%"><a href="#9-archlizhengfrontend-slides-editable--362"><img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/bold-signal-cover.png" width="220" alt="bold-signal cover preset"/></a><br><sub><b>frontend-slides-editable</b><br>362 ⭐</sub></td>
+<td align="center" width="25%"><a href="#11-likakumck-ppt-design-skill--198"><img src="https://github.com/user-attachments/assets/075ec46d-dd73-4454-92d0-84184b78d276" width="220" alt="Mck-ppt-design cover slide"/></a><br><sub><b>Mck-ppt-design-skill</b><br>198 ⭐</sub></td>
+<td align="center" width="25%"><a href="#t1-zarazhangruibeautiful-html-templates--3096"><img src="https://raw.githubusercontent.com/zarazhangrui/beautiful-html-templates/main/screenshots/soft-editorial-4.png" width="220" alt="soft editorial template"/></a><br><sub><b>beautiful-html-templates</b><br>3.1k ⭐</sub></td>
 </tr></table>
 
 ---
@@ -73,7 +72,7 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ## Skills
 
-> 按 GitHub 星标数降序排列。星标数据更新于 2026-05-13。
+> 按 GitHub 星标数降序排列。星标数据更新于 2026-06-23。
 > Tier 的划分是经验性的，并非价值判断——一个 24 颗星的华为风 Skill，在做战略汇报这个场景下，几乎一定比 17k 星的通用方案更合适。
 
 ### Tier S · 基础设施级 / 1k+ stars
@@ -82,7 +81,7 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) · ⭐ 17,263
+#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) · ⭐ 22,614
 
 > Create beautiful slides on the web using Claude's frontend skills.
 
@@ -94,11 +93,11 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 - **浅色系** — Notebook Tabs（编辑风格 + 彩色标签纸）、Pastel Geometry（友好、纵向胶囊）、Split Pastel（双色纵向分割、俏皮）、Vintage Editorial（个性化几何）。
 - **特色风格** — Neon Cyber（粒子背景 + 霓虹）、Terminal Green（开发者黑客风）、Swiss Modern（包豪斯极简）、Paper & Ink（首字下沉 + 引用突显）。
 
-**亮点**：极舒服的「风格发现」流程；活跃的 fork 生态（见下方 [`frontend-slides-editable`](#12-archlizhengfrontend-slides-editable--125)）；Anthropic 官方将其作为 Skill 能力的展示案例。完整 demo 视频和资源见 [项目 README](https://github.com/zarazhangrui/frontend-slides)。
+**亮点**：极舒服的「风格发现」流程；活跃的 fork 生态（见下方 [`frontend-slides-editable`](#9-archlizhengfrontend-slides-editable--362)）；Anthropic 官方将其作为 Skill 能力的展示案例。完整 demo 视频和资源见 [项目 README](https://github.com/zarazhangrui/frontend-slides)。
 
 ---
 
-#### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) · ⭐ 13,435
+#### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) · ⭐ 19,547
 
 > 《打字。回车。一份能交付的设计。》 —— Claude Code 里 HTML 原生的设计 Skill · Agent-agnostic · 20 设计哲学 · 5 维评审 · MP4 导出。
 
@@ -123,7 +122,21 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 3. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) · ⭐ 8,164
+#### 3. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) · ⭐ 18,604
+
+> A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+
+整个生态的「杂志风之声」。两个标志性风格一眼可辨：
+
+- **Style A — 电子杂志 × 电子墨水**。Monocle 贴上代码。叙事、观点、分享、个人风格表达。
+- **Style B — 瑞士国际主义**。网格至上、单一高饱和锚点色、直角、发丝线、极致字号对比。事实陈述、产品、分析、方法论表达。
+
+**✅ 合适**：线下分享、行业内部讲话、私享会、AI 产品发布、demo day、强烈个人风格的演讲。
+**❌ 不合适**：大段表格数据、培训课件（信息密度不够）、需多人协作编辑（静态 HTML）。
+
+---
+
+#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) · ⭐ 8,837
 
 > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps.
 
@@ -142,21 +155,7 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 4. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) · ⭐ 7,951
-
-> A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
-
-整个生态的「杂志风之声」。两个标志性风格一眼可辨：
-
-- **Style A — 电子杂志 × 电子墨水**。Monocle 贴上代码。叙事、观点、分享、个人风格表达。
-- **Style B — 瑞士国际主义**。网格至上、单一高饱和锚点色、直角、发丝线、极致字号对比。事实陈述、产品、分析、方法论表达。
-
-**✅ 合适**：线下分享、行业内部讲话、私享会、AI 产品发布、demo day、强烈个人风格的演讲。
-**❌ 不合适**：大段表格数据、培训课件（信息密度不够）、需多人协作编辑（静态 HTML）。
-
----
-
-#### 5. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) · ⭐ 3,584
+#### 5. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) · ⭐ 6,411
 
 > HTML PPT Studio — A world-class AgentSkill for producing professional HTML presentations.
 
@@ -178,7 +177,7 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 6. [1weiho/open-slide](https://github.com/1weiho/open-slide) · ⭐ 3,163
+#### 6. [1weiho/open-slide](https://github.com/1weiho/open-slide) · ⭐ 5,498
 
 > 为 Agent 而生的 Slide 框架。用自然语言描述你的 Deck —— 编程 Agent 来写 React。open-slide 处理 canvas、缩放、导航、热重载、演示模式，让 Agent 专注于内容。
 
@@ -200,7 +199,7 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 7. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 1,038
+#### 7. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 3,096
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -221,7 +220,7 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 8. [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) · ⭐ 517
+#### 8. [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) · ⭐ 597
 
 > 渐进交互式 PPT 生成 Skill。
 
@@ -238,7 +237,22 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 9. [vigorX777/ppt-svg-generator](https://github.com/vigorX777/ppt-svg-generator) · ⭐ 216
+#### 9. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) · ⭐ 362
+
+> Editable HTML presentation skill for Codex / Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion.
+
+<p align="center">
+  <a href="https://github.com/archlizheng/frontend-slides-editable"><img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/bold-signal-cover.png" width="260" alt="Bold Signal"/>&nbsp;<img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/electric-studio-cover.png" width="260" alt="Electric Studio"/>&nbsp;<img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/neon-cyber-cover.png" width="260" alt="Neon Cyber"/></a>
+  <br><sub>三张预设封面 —— Bold Signal · Electric Studio · Neon Cyber。</sub>
+</p>
+
+`zarazhangrui/frontend-slides` 的可编辑 fork。完整保留上游的风格发现、视口纪律、PPT 转换能力，并在此之上加上完整的浏览器内编辑运行时：拖动对象、缩放区块、文本编辑、幻灯片重排、本地保存、导出干净的单文件 HTML。
+
+> 真实演讲使用时仍应实现 `STYLE_PRESETS.md` 中每个 Preset 的签名级布局。编辑模式是增量能力，不是「所有美学共用一个 slide 原型」的许可证。
+
+---
+
+#### 10. [vigorX777/ppt-svg-generator](https://github.com/vigorX777/ppt-svg-generator) · ⭐ 238
 
 > 将 Markdown 文稿快速转化为 HTML / PDF 演示文稿，支持多种预设风格。
 
@@ -256,26 +270,7 @@ HTML 演示文稿正悄悄成为 AI 生成场景下的首选格式——可在�
 
 ---
 
-#### 10. [bbostaice/axi-front-design-skill](https://github.com/bbostaice/axi-front-design-skill) · ⭐ 189
-
-> 帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海
-
-<p align="center">
-  <a href="https://github.com/bbostaice/axi-front-design-skill"><img src="https://raw.githubusercontent.com/bbostaice/axi-front-design-skill/main/docs/assets/axi-front-design-motion-preview.gif" width="720" alt="axi-front-design 动效预览"/></a>
-</p>
-
-让 Claude 扮演资深设计师而非通用前端工程师，产出高保真 HTML 制品：落地页、Slide Deck、可交互原型、动效 demo、信息图、移动端 mockup。
-
-**核心行为**：
-
-- 通过弹窗（而不是清单）先提问再开始。
-- 从你的代码库中读取真实设计 token，而不是凭空臆测。
-- 在不同视觉/交互维度下交付 3+ 个变体方案。
-- 主动规避 AI 设计套路（无意义的渐变、emoji 堆砌、Lorem Ipsum 充数）。
-
----
-
-#### 11. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) · ⭐ 133
+#### 11. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) · ⭐ 198
 
 > 麦麸风格 PPT 设计系统。70 layout patterns, flat design, python-pptx。
 
@@ -287,28 +282,7 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 12. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) · ⭐ 125
-
-> Editable HTML presentation skill for Codex / Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion.
-
-<p align="center">
-  <a href="https://github.com/archlizheng/frontend-slides-editable"><img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/bold-signal-cover.png" width="260" alt="Bold Signal"/>&nbsp;<img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/electric-studio-cover.png" width="260" alt="Electric Studio"/>&nbsp;<img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/neon-cyber-cover.png" width="260" alt="Neon Cyber"/></a>
-  <br><sub>三张预设封面 —— Bold Signal · Electric Studio · Neon Cyber。</sub>
-</p>
-
-`zarazhangrui/frontend-slides` 的可编辑 fork。完整保留上游的风格发现、视口纪律、PPT 转换能力，并在此之上加上完整的浏览器内编辑运行时：拖动对象、缩放区块、文本编辑、幻灯片重排、本地保存、导出干净的单文件 HTML。
-
-> 真实演讲使用时仍应实现 `STYLE_PRESETS.md` 中每个 Preset 的签名级布局。编辑模式是增量能力，不是「所有美学共用一个 slide 原型」的许可证。
-
----
-
-### Tier B · 新兴 / 专精方向
-
-星标数较小，但其中不少是各自专精领域里**最佳**的选择——华为式战略页、面向知识留存的教学幻灯片、Anti-AI-Slop 的 token 化设计系统等。
-
----
-
-#### 13. [bytonylee/future-slide-skill](https://github.com/bytonylee/future-slide-skill) · ⭐ 80
+#### 12. [bytonylee/future-slide-skill](https://github.com/bytonylee/future-slide-skill) · ⭐ 135
 
 > Reusable slide-generation skill for image-based and HTML-based AI workflows.
 
@@ -320,57 +294,13 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 14. [edu-ai-builders/visual-cognition-slides](https://github.com/edu-ai-builders/visual-cognition-slides) · ⭐ 55
+### Tier B · 新兴 / 专精方向
 
-> 基于认知科学与教学设计的 HTML slides 生成工具。面向教师、研究者与内容创作者，输出针对知识留存优化的演示文稿。
-
-这个 Skill 的每一个决策——叙事结构、每张 slide 的版式、每个动画——都来自同一个问题：**观众在这里需要完成什么认知动作？**
-
-这不是设计工具，是教学设计工具。
-
-**最适合**：教师、研究者、博士生——需要有效传递知识，不只是「好看」；内容创作者——口播视频、科普系列、知识类账号；做分享、演讲、内部培训的人。
-**不太适合**：纯商业演示（PowerPoint / Keynote 更快）；需要实时协作编辑（Google Slides 更合适）。
+星标数较小，但其中不少是各自专精领域里**最佳**的选择——华为式战略页、面向知识留存的教学幻灯片、Anti-AI-Slop 的 token 化设计系统等。
 
 ---
 
-#### 15. [WayneZhon/KingDee-PPT-Skill](https://github.com/WayneZhon/KingDee-PPT-Skill) · ⭐ 45
-
-> 将文字、大纲、文档一键转换为金蝶官方风格 .pptx 或交互式 HTML 幻灯片。
-
-完全复现金蝶国际软件集团 2026 版官方模板设计语言。双风格体系（Classic / Bento Motion），29 种版式，7 种思维模型自动识别，内嵌官方背景与 Logo，零配置可用。
-
----
-
-#### 16. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) · ⭐ 37
-
-> A skill for Claude Code and OpenClaw that generates stunning, zero-dependency HTML presentations.
-
-<p align="center">
-  <a href="https://github.com/kaisersong/slide-creator"><img src="https://raw.githubusercontent.com/kaisersong/slide-creator/main/demos/screenshots/bold-signal.png" width="380" alt="Bold Signal demo"/>&nbsp;<img src="https://raw.githubusercontent.com/kaisersong/slide-creator/main/demos/screenshots/electric-studio.png" width="380" alt="Electric Studio demo"/></a>
-</p>
-
-- **IR 优先工作流** — `--plan` 蒸馏出 `BRIEF.json`，`--generate` 基于 IR 渲染。
-- **两档规划深度** — Auto 求速度，Polish 锁叙事 + 视觉。
-- **内容审核系统** — 16 个 checkpoint；`--review` 按需诊断；Polish 模式自动跑 review；三类规则（hard / context-aware / advisory）。
-- **22 个设计预设**，每个都带具名的版式变体。
-- **内容类型自动路由** — 自动为 pitch deck、开发者工具、数据报告推荐风格。
-- **风格发现** — 在确认之前生成 3 个视觉预览。
-- **内联 SVG 图表** — 流程图、时间线、柱状图、对比网格、组织架构图，无任何外部库。
-- **Blue Sky 起手模板** — 完整脚手架，避免模型误实现视觉系统。
-
----
-
-#### 17. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 36
-
-> Agent 无关的 PPT 设计 Skill 集合，搭配 [ppt-master](https://github.com/hugohe3/ppt-master) 输出精致 PowerPoint。
-
-不是单个 Skill，而是 meta 集合。作者把多种不同视觉系统（`japanese-style-ppt-skill`、`soft-3d-clay-ppt-skill`、`futuristic-tech-editorial-ppt-skill`、`minimalist-luxury-branding-ppt-skill`、`modern-illustration-editorial-ppt-skill`、`japanese-hand-drawn-editorial-ppt-skill`）打包成稳定的视觉层，让你在不同的 Agent（Codex、Claude Code、Cursor、OpenCode、OpenClaw、Hermes）上得到一致的产出。繁体中文是 first-class 支持。
-
-同样列入下方 [Templates](#templates) 章节。
-
----
-
-#### 18. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) · ⭐ 33
+#### 13. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) · ⭐ 91
 
 > 🎨 World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear / Anthropic / Stripe / Apple / NYT.
 
@@ -392,7 +322,57 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 19. [FeeiCN/slide-writer](https://github.com/FeeiCN/slide-writer) · ⭐ 32
+#### 14. [edu-ai-builders/visual-cognition-slides](https://github.com/edu-ai-builders/visual-cognition-slides) · ⭐ 72
+
+> 基于认知科学与教学设计的 HTML slides 生成工具。面向教师、研究者与内容创作者，输出针对知识留存优化的演示文稿。
+
+这个 Skill 的每一个决策——叙事结构、每张 slide 的版式、每个动画——都来自同一个问题：**观众在这里需要完成什么认知动作？**
+
+这不是设计工具，是教学设计工具。
+
+**最适合**：教师、研究者、博士生——需要有效传递知识，不只是「好看」；内容创作者——口播视频、科普系列、知识类账号；做分享、演讲、内部培训的人。
+**不太适合**：纯商业演示（PowerPoint / Keynote 更快）；需要实时协作编辑（Google Slides 更合适）。
+
+---
+
+#### 15. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 56
+
+> Agent 无关的 PPT 设计 Skill 集合，搭配 [ppt-master](https://github.com/hugohe3/ppt-master) 输出精致 PowerPoint。
+
+不是单个 Skill，而是 meta 集合。作者把多种不同视觉系统（`japanese-style-ppt-skill`、`soft-3d-clay-ppt-skill`、`futuristic-tech-editorial-ppt-skill`、`minimalist-luxury-branding-ppt-skill`、`modern-illustration-editorial-ppt-skill`、`japanese-hand-drawn-editorial-ppt-skill`）打包成稳定的视觉层，让你在不同的 Agent（Codex、Claude Code、Cursor、OpenCode、OpenClaw、Hermes）上得到一致的产出。繁体中文是 first-class 支持。
+
+同样列入下方 [Templates](#templates) 章节。
+
+---
+
+#### 16. [WayneZhon/KingDee-PPT-Skill](https://github.com/WayneZhon/KingDee-PPT-Skill) · ⭐ 54
+
+> 将文字、大纲、文档一键转换为金蝶官方风格 .pptx 或交互式 HTML 幻灯片。
+
+完全复现金蝶国际软件集团 2026 版官方模板设计语言。双风格体系（Classic / Bento Motion），29 种版式，7 种思维模型自动识别，内嵌官方背景与 Logo，零配置可用。
+
+---
+
+#### 17. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) · ⭐ 44
+
+> A skill for Claude Code and OpenClaw that generates stunning, zero-dependency HTML presentations.
+
+<p align="center">
+  <a href="https://github.com/kaisersong/slide-creator"><img src="https://raw.githubusercontent.com/kaisersong/slide-creator/main/demos/screenshots/bold-signal.png" width="380" alt="Bold Signal demo"/>&nbsp;<img src="https://raw.githubusercontent.com/kaisersong/slide-creator/main/demos/screenshots/electric-studio.png" width="380" alt="Electric Studio demo"/></a>
+</p>
+
+- **IR 优先工作流** — `--plan` 蒸馏出 `BRIEF.json`，`--generate` 基于 IR 渲染。
+- **两档规划深度** — Auto 求速度，Polish 锁叙事 + 视觉。
+- **内容审核系统** — 16 个 checkpoint；`--review` 按需诊断；Polish 模式自动跑 review；三类规则（hard / context-aware / advisory）。
+- **22 个设计预设**，每个都带具名的版式变体。
+- **内容类型自动路由** — 自动为 pitch deck、开发者工具、数据报告推荐风格。
+- **风格发现** — 在确认之前生成 3 个视觉预览。
+- **内联 SVG 图表** — 流程图、时间线、柱状图、对比网格、组织架构图，无任何外部库。
+- **Blue Sky 起手模板** — 完整脚手架，避免模型误实现视觉系统。
+
+---
+
+#### 18. [FeeiCN/slide-writer](https://github.com/FeeiCN/slide-writer) · ⭐ 37
 
 > A slide-writing skill for generating enterprise HTML presentations from ideas, outlines, documents, and speech drafts.
 
@@ -407,7 +387,7 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 20. [zuiho-kai/huawei-style-ppt-skill](https://github.com/zuiho-kai/huawei-style-ppt-skill) · ⭐ 24
+#### 19. [zuiho-kai/huawei-style-ppt-skill](https://github.com/zuiho-kai/huawei-style-ppt-skill) · ⭐ 35
 
 > 华为风格 PPT Skill — 高密度信息 PPT 制作工作流。
 
@@ -419,7 +399,25 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 21. [Phlegonlabs/Powerpoint-fancy-design](https://github.com/Phlegonlabs/Powerpoint-fancy-design) · ⭐ 23
+#### 20. [codesstar/next-slide](https://github.com/codesstar/next-slide) · ⭐ 34
+
+> 你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual.
+
+每种风格都是一个完整设计系统：精选字体、配色板、版式范式、签名级动画、响应式断点。
+
+| 分类 | 数量 | 风格 | 调性 |
+| --- | --- | --- | --- |
+| Dark | 11 | Keynote Noir, Bold Signal, Neon Cyber, Terminal Green, Midnight Corporate, Cinema Scope, Dark Botanical, Starfield, Dark Premium, Dark Cinema, Futuristic Blue | 大会、发布、技术演讲 |
+| Light | 11 | Swiss Modern, Paper & Ink, Notebook Tabs, Pastel Geometry, Morning Brief, Campus White, Soft Landing, Watercolor Wash, Korean Soft, Claymorphism 3D, Wabi-Sabi Zen | 学术、商务、教学 |
+| Editorial | 4 | Editorial Serif, Fashion Editorial, Newsprint Broadsheet, Vintage Editorial | 杂志风、行业洞察 |
+| Bold | 7 | Electric Studio, Creative Voltage, Split Pastel, Pop Art, Bold Typography, Neon Brutalism, Memphis Pop | 初创团队、创意提案 |
+| Retro | 5 | Grainy Retro, Art Deco Gatsby, Risograph Overprint, Vintage Poster, Retro Arcade | 怀旧风、风格化 |
+| Artistic | 7 | Surrealism Gallery, Scrapbook Portfolio, Blue Collage, Pink Handwritten, Art Nouveau Botanical, Soft Dreamy, Terracotta Earth | 艺术、设计、作品集 |
+| Cultural | 8 | 东方墨韵, 和風, Gradient Dreams, Blueprint, Bauhaus Primary, Swiss Grid, Aurora Mesh, Chinese Ink Wash | 文化活动、主题演讲 |
+
+---
+
+#### 21. [Phlegonlabs/Powerpoint-fancy-design](https://github.com/Phlegonlabs/Powerpoint-fancy-design) · ⭐ 25
 
 > A presentation-design skill for Codex and Claude Code that turns page-structured Markdown into styled 1600x900 HTML slides, PNG renders, and exportable PPTX decks.
 
@@ -436,7 +434,7 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 22. [xhshow2025/-PPT-sense-deck-skill-](https://github.com/xhshow2025/-PPT-sense-deck-skill-) · ⭐ 18
+#### 22. [xhshow2025/-PPT-sense-deck-skill-](https://github.com/xhshow2025/-PPT-sense-deck-skill-) · ⭐ 22
 
 > 鲸格 PPT — Codex Skill，用于生成高质量浏览器原生演示文稿。
 
@@ -456,7 +454,7 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 23. [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) · ⭐ 17
+#### 23. [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) · ⭐ 22
 
 > 50,000+ unique HTML presentation designs. Zero dependencies. Anti-AI-slop. A Claude Code skill.
 
@@ -473,31 +471,13 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### 24. [codesstar/next-slide](https://github.com/codesstar/next-slide) · ⭐ 17
-
-> 你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual.
-
-每种风格都是一个完整设计系统：精选字体、配色板、版式范式、签名级动画、响应式断点。
-
-| 分类 | 数量 | 风格 | 调性 |
-| --- | --- | --- | --- |
-| Dark | 11 | Keynote Noir, Bold Signal, Neon Cyber, Terminal Green, Midnight Corporate, Cinema Scope, Dark Botanical, Starfield, Dark Premium, Dark Cinema, Futuristic Blue | 大会、发布、技术演讲 |
-| Light | 11 | Swiss Modern, Paper & Ink, Notebook Tabs, Pastel Geometry, Morning Brief, Campus White, Soft Landing, Watercolor Wash, Korean Soft, Claymorphism 3D, Wabi-Sabi Zen | 学术、商务、教学 |
-| Editorial | 4 | Editorial Serif, Fashion Editorial, Newsprint Broadsheet, Vintage Editorial | 杂志风、行业洞察 |
-| Bold | 7 | Electric Studio, Creative Voltage, Split Pastel, Pop Art, Bold Typography, Neon Brutalism, Memphis Pop | 初创团队、创意提案 |
-| Retro | 5 | Grainy Retro, Art Deco Gatsby, Risograph Overprint, Vintage Poster, Retro Arcade | 怀旧风、风格化 |
-| Artistic | 7 | Surrealism Gallery, Scrapbook Portfolio, Blue Collage, Pink Handwritten, Art Nouveau Botanical, Soft Dreamy, Terracotta Earth | 艺术、设计、作品集 |
-| Cultural | 8 | 东方墨韵, 和風, Gradient Dreams, Blueprint, Bauhaus Primary, Swiss Grid, Aurora Mesh, Chinese Ink Wash | 文化活动、主题演讲 |
-
----
-
 ## Templates
 
 手工打磨的 HTML 模板库——丢进项目，让 Agent 指向这个目录，就能生成 deck。
 
 ---
 
-#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 1,038
+#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 3,096
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -510,7 +490,7 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
-#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 36
+#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 56
 
 > Agent 无关的 PPT 设计 Skill 集合，以多风格模板库的形式发布。
 
