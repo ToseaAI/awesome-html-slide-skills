@@ -467,6 +467,24 @@ Fights AI-generated mediocrity with a **token-based design system** and a strict
 
 ---
 
+#### 24. [grunion-ai/decklet](https://github.com/grunion-ai/decklet) · ⭐ 0
+
+> Claude Code and Codex skill plus CLI that turns any content into one self-contained, hand-editable HTML slide deck.
+
+<p align="center">
+  <a href="https://github.com/grunion-ai/decklet"><img src="https://raw.githubusercontent.com/grunion-ai/decklet/main/docs/demo-poster.png" width="720" alt="decklet editor: drag a row, page through slides, write a PDF"/></a>
+  <br><sub>Above: drag, retype, contact sheet, PDF — all inside one HTML file (the README's own poster).</sub>
+</p>
+
+The deck is a JSON model and the file is the editor: drag, retype, resize, reorder, undo, present and write a PDF from inside the `.html`. Eight brand text roles are the only source of type, and `validate` + `verify` (layout parity, text collisions, pixel diff against references) gate the hand-off. Zero dependencies, zero network.
+
+- **Formats** — slides 16:9 (960×540, 1600×900); carousel and document formats are experimental.
+- **Editing** — drag, multi-select, marquee select, inline text with B/I/U/S, undo history persisted across reloads, contact-sheet reorder.
+- **Motion** — four entrance animations, off under `prefers-reduced-motion` and never in print, PDF or `verify`.
+- **Install** — `claude plugin marketplace add grunion-ai/decklet` · `claude plugin install decklet@grunion`.
+
+---
+
 ## Templates
 
 Hand-crafted HTML template libraries — drop them into a project, point your agent at the folder, get a deck.

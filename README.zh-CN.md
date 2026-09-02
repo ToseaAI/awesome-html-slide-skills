@@ -471,6 +471,24 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
+#### 24. [grunion-ai/decklet](https://github.com/grunion-ai/decklet) · ⭐ 0
+
+> Claude Code and Codex skill plus CLI that turns any content into one self-contained, hand-editable HTML slide deck.
+
+<p align="center">
+  <a href="https://github.com/grunion-ai/decklet"><img src="https://raw.githubusercontent.com/grunion-ai/decklet/main/docs/demo-poster.png" width="720" alt="decklet 编辑器：拖动一行、翻页、导出 PDF"/></a>
+  <br><sub>上图：拖拽、改字、缩略图排序、PDF——全部在同一个 HTML 文件内完成（取自项目 README 自带海报图）。</sub>
+</p>
+
+Deck 是一份 JSON 模型，文件本身就是编辑器：拖拽、改字、缩放、排序、撤销、演示、导出 PDF，全部在 `.html` 内部完成。八个品牌文字角色是字体排印的唯一来源；`validate` + `verify`（版式一致性、文字碰撞、与参考图的像素比对）把关交付。零依赖、零网络。
+
+- **格式** — 16:9 幻灯片（960×540、1600×900）；carousel 与 document 格式为实验性。
+- **编辑** — 拖拽、多选、框选、行内文字编辑（B/I/U/S）、撤销历史跨刷新保留、缩略图页排序。
+- **动效** — 四种入场动画；`prefers-reduced-motion` 下关闭，打印、PDF 与 `verify` 中一律不出现。
+- **安装** — `claude plugin marketplace add grunion-ai/decklet` · `claude plugin install decklet@grunion`。
+
+---
+
 ## Templates
 
 手工打磨的 HTML 模板库——丢进项目，让 Agent 指向这个目录，就能生成 deck。
