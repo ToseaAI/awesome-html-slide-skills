@@ -467,6 +467,25 @@ Fights AI-generated mediocrity with a **token-based design system** and a strict
 
 ---
 
+#### 24. [linmengmeng-1314/visual-report](https://github.com/linmengmeng-1314/visual-report) · ⭐ 0
+
+> An AI-native engine for editable visual reports & slide decks: structured plans → deterministic rendering → single-file offline HTML.
+
+<p align="center">
+  <a href="https://github.com/linmengmeng-1314/visual-report"><img src="https://raw.githubusercontent.com/linmengmeng-1314/visual-report/main/docs/screenshots/demo.gif" width="720" alt="visual-report demo"/></a>
+  <br><sub>Architecture slide: flow animation, hover-to-focus on adjacent edges — all build-time SVG with a zero-dependency runtime (~36KB single file).</sub>
+</p>
+
+Not a one-shot generator but a **pipeline with quality gates**: the agent writes a validated `report-plan.json` / `slide-plan.json` (JSON Schema + stable IDs), a deterministic Python renderer produces single-file HTML, and three QA gates (schema validation → static checks → optional Playwright inspection) must pass before anything is delivered. After delivery, everything stays editable in natural language — revisions apply to the checkpoint plans with node-level diffs, snapshots, history and one-command rollback.
+
+- **Two modes** — long-form reports (8 layouts, TOC, print-friendly) + presentation decks (10 layouts; native runtime: arrows / `F` fullscreen / `O` overview / `N` speaker notes).
+- **Build-time diagrams & charts** — grid-coordinate architecture/flow diagrams render to static SVG (semantic node colors, pill-backed edge labels, hover-to-focus, optional flow animation); bar/line/donut with honest null-gap handling (missing data breaks the line, never fabricated).
+- **Strictly offline** — system font stacks, zero CDN, size-budget gate (2MB target / 5MB cap).
+- **Continuous revision** — `revise.py` diffs plans node-by-node and snapshots every version; a failed render never destroys the last good output.
+- **Report → deck** — `to_slides.py` reuses KPIs/charts/diagrams from an existing report and scaffolds a deck for narrative refinement; multi-format materials (md/csv/json, docx/pdf optional) via `extract.py`.
+
+---
+
 ## Templates
 
 Hand-crafted HTML template libraries — drop them into a project, point your agent at the folder, get a deck.
