@@ -471,6 +471,25 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
+#### 24. [linmengmeng-1314/visual-report](https://github.com/linmengmeng-1314/visual-report) · ⭐ 0
+
+> 可持续编辑的 AI 图文报告与幻灯片引擎：结构化计划 → 确定性渲染 → 单文件离线 HTML。
+
+<p align="center">
+  <a href="https://github.com/linmengmeng-1314/visual-report"><img src="https://raw.githubusercontent.com/linmengmeng-1314/visual-report/main/docs/screenshots/demo.gif" width="720" alt="visual-report demo"/></a>
+  <br><sub>架构页：边流光动画、悬浮聚焦相邻链路——全部为构建期 SVG，零依赖运行时（单文件约 36KB）。</sub>
+</p>
+
+不是一次性生成器，而是**带质量门禁的管线**：Agent 产出经校验的 `report-plan.json` / `slide-plan.json`（JSON Schema + 稳定 ID），确定性 Python 渲染器生成单文件 HTML，三层质检（Schema 校验 → 静态检查 → 可选 Playwright 视觉检查）全过才交付。交付后一切皆可用自然语言持续修改——修订作用于检查点计划，带节点级 diff、快照、历史与一键回滚。
+
+- **双模式** — 长图文报告（8 种布局、目录、可打印）+ 演示 deck（10 种版式；原生运行时：方向键 / `F` 全屏 / `O` 总览 / `N` 演讲备注）。
+- **构建期图表** — 网格坐标声明的架构/流程图渲染为静态 SVG（语义节点配色、胶囊边标签、悬浮聚焦、可选流光动画）；柱/折/环图缺失数据断线呈现，不编造。
+- **严格离线** — 系统字体栈、零 CDN、体积门禁（目标 2MB / 上限 5MB）。
+- **持续修订** — `revise.py` 节点级 diff + 全版本快照；渲染失败永不破坏上一版产物。
+- **报告转 deck** — `to_slides.py` 复用既有报告的 KPI/图表/架构图生成 deck 骨架；多格式素材（md/csv/json，docx/pdf 可选）经 `extract.py` 提取。
+
+---
+
 ## Templates
 
 手工打磨的 HTML 模板库——丢进项目，让 Agent 指向这个目录，就能生成 deck。
