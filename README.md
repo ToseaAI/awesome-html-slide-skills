@@ -28,14 +28,15 @@ Every entry below is a real, publicly available GitHub repository. Stars are pul
 A glance at what these skills actually produce. Every preview below is the linked project's own demo — click an image to jump to that entry.
 
 <table align="center"><tr>
-<td align="center" width="25%"><a href="#2-alchaincyfhuashu-design--19547"><img src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/c2-slides-pptx-en.gif" width="220" alt="huashu-design — slides + PPTX export"/></a><br><sub><b>huashu-design</b><br>19.5k ⭐</sub></td>
-<td align="center" width="25%"><a href="#4-nicobailonvisual-explainer--8837"><img src="https://raw.githubusercontent.com/nicobailon/visual-explainer/main/banner.png" width="220" alt="visual-explainer banner"/></a><br><sub><b>visual-explainer</b><br>8.8k ⭐</sub></td>
-<td align="center" width="25%"><a href="#5-lewisluluhtml-ppt-skill--6411"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/hero.gif" width="220" alt="html-ppt-skill hero"/></a><br><sub><b>html-ppt-skill</b><br>6.4k ⭐</sub></td>
-<td align="center" width="25%"><a href="#6-1weihoopen-slide--5498"><img src="https://github.com/user-attachments/assets/02f5e6d7-12a7-4a8e-88e7-ae8770a96584" width="220" alt="open-slide cover"/></a><br><sub><b>open-slide</b><br>5.5k ⭐</sub></td>
+<td align="center" width="25%"><a href="#3-alchaincyfhuashu-design---28440"><img src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/c2-slides-pptx-en.gif" width="220" alt="huashu-design — slides + PPTX export"/></a><br><sub><b>huashu-design</b><br>28.4k ⭐</sub></td>
+<td align="center" width="25%"><a href="#4-nicobailonvisual-explainer---10739"><img src="https://raw.githubusercontent.com/nicobailon/visual-explainer/main/banner.png" width="220" alt="visual-explainer banner"/></a><br><sub><b>visual-explainer</b><br>10.7k ⭐</sub></td>
+<td align="center" width="25%"><a href="#5-chuspeeismdashi-ppt-skill---10258"><img src="https://github.com/chuspeeism/dashi-ppt-skill/releases/download/readme-assets-v1/hero-result.gif" width="220" alt="dashi-ppt-skill — deck with per-page console"/></a><br><sub><b>dashi-ppt-skill</b><br>10.3k ⭐</sub></td>
+<td align="center" width="25%"><a href="#6-open-slideopen-slide---9612"><img src="https://github.com/user-attachments/assets/02f5e6d7-12a7-4a8e-88e7-ae8770a96584" width="220" alt="open-slide cover"/></a><br><sub><b>open-slide</b><br>9.6k ⭐</sub></td>
 </tr><tr>
-<td align="center" width="25%"><a href="#9-archlizhengfrontend-slides-editable--362"><img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/bold-signal-cover.png" width="220" alt="bold-signal cover preset"/></a><br><sub><b>frontend-slides-editable</b><br>362 ⭐</sub></td>
-<td align="center" width="25%"><a href="#11-likakumck-ppt-design-skill--198"><img src="https://github.com/user-attachments/assets/075ec46d-dd73-4454-92d0-84184b78d276" width="220" alt="Mck-ppt-design cover slide"/></a><br><sub><b>Mck-ppt-design-skill</b><br>198 ⭐</sub></td>
-<td align="center" width="25%"><a href="#t1-zarazhangruibeautiful-html-templates--3096"><img src="https://raw.githubusercontent.com/zarazhangrui/beautiful-html-templates/main/screenshots/soft-editorial-4.png" width="220" alt="soft editorial template"/></a><br><sub><b>beautiful-html-templates</b><br>3.1k ⭐</sub></td>
+<td align="center" width="25%"><a href="#7-lewisluluhtml-ppt-skill---8943"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/hero.gif" width="220" alt="html-ppt-skill hero"/></a><br><sub><b>html-ppt-skill</b><br>8.9k ⭐</sub></td>
+<td align="center" width="25%"><a href="#11-archlizhengfrontend-slides-editable---547"><img src="https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/main/docs/preset-previews/bold-signal-cover.png" width="220" alt="bold-signal cover preset"/></a><br><sub><b>frontend-slides-editable</b><br>547 ⭐</sub></td>
+<td align="center" width="25%"><a href="#12-likakumck-ppt-design-skill---328"><img src="https://github.com/user-attachments/assets/075ec46d-dd73-4454-92d0-84184b78d276" width="220" alt="Mck-ppt-design cover slide"/></a><br><sub><b>Mck-ppt-design-skill</b><br>328 ⭐</sub></td>
+<td align="center" width="25%"><a href="#t1-zarazhangruibeautiful-html-templates---4914"><img src="https://raw.githubusercontent.com/zarazhangrui/beautiful-html-templates/main/screenshots/soft-editorial-4.png" width="220" alt="soft editorial template"/></a><br><sub><b>beautiful-html-templates</b><br>4.9k ⭐</sub></td>
 </tr></table>
 
 ---
@@ -47,6 +48,7 @@ A glance at what these skills actually produce. Every preview below is the linke
   - [Tier S · Foundational / 1k+ stars](#tier-s--foundational--1k-stars)
   - [Tier A · Production-ready / 100–1000 stars](#tier-a--production-ready--1001000-stars)
   - [Tier B · Emerging / specialized](#tier-b--emerging--specialized)
+- [Export to editable PowerPoint (PPTX)](#export-to-editable-powerpoint-pptx)
 - [Templates](#templates)
 - [Contributing](#contributing)
 - [License](#license)
@@ -72,8 +74,8 @@ HTML decks have quietly become the format of choice for AI-generated presentatio
 
 ## Skills
 
-> Ordered by GitHub star count, descending. Star counts last refreshed 2026-06-23.
-> Tier cutoffs are heuristics, not value judgments — a 24-star skill targeting Huawei-style decks is probably more useful for that use case than a 17k-star generalist.
+> Ordered by GitHub star count, descending. Star counts last refreshed 2026-11-02.
+> Tier cutoffs are heuristics, not value judgments — a 66-star skill targeting Huawei-style decks is probably more useful for that use case than a 31k-star generalist.
 
 ### Tier S · Foundational / 1k+ stars
 
@@ -81,9 +83,9 @@ These are the projects most of the others reference, fork, or benchmark against.
 
 ---
 
-#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) · ⭐ 22,614
+#### 1. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) · ⭐ 31,722
 
-> Create beautiful slides on the web using Claude's frontend skills.
+> Create beautiful slides on the web using a coding agent's frontend skills.
 
 The project that kicked off the modern HTML-slide-skill wave. Built on a "show, don't tell" philosophy: instead of asking you to describe your aesthetic preferences in words, it generates visual previews and lets you pick what you like. Designed so non-designers can produce decks without ever touching CSS or JavaScript.
 
@@ -93,20 +95,41 @@ The project that kicked off the modern HTML-slide-skill wave. Built on a "show, 
 - **Light** — Notebook Tabs (editorial, paper with colorful tabs), Pastel Geometry (vertical pills, friendly), Split Pastel (playful two-color vertical split), Vintage Editorial (witty, geometric shapes).
 - **Specialty** — Neon Cyber (particle bg, neon glow), Terminal Green (hacker aesthetic), Swiss Modern (Bauhaus-inspired), Paper & Ink (drop caps and pull quotes).
 
-**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#9-archlizhengfrontend-slides-editable--362) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides).
+**Why it stands out**: ergonomic style-discovery flow, a healthy fork ecosystem (see [`frontend-slides-editable`](#11-archlizhengfrontend-slides-editable---547) below), and Anthropic itself uses the project as an example of what skills can do. The full demo video and additional assets live on the [project's README](https://github.com/zarazhangrui/frontend-slides).
 
 ---
 
-#### 2. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) · ⭐ 19,547
+#### 2. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) · ⭐ 29,109
 
-> *"Type. Hit enter. A finished design lands in your lap."* — HTML-native design skill for Claude Code · Agent-agnostic · 20 design philosophies · 5-dimension critique · MP4 export.
+> AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
+
+<p align="center">
+  <a href="https://github.com/op7418/guizang-ppt-skill"><img src="https://github.com/user-attachments/assets/8960e78c-69bb-4b7e-aa95-6fad64b70314" width="720" alt="guizang-ppt-skill — Style B, Swiss International"/></a>
+  <br><sub>Style B — Swiss International (from the project's README).</sub>
+</p>
+
+The "magazine voice" of the ecosystem. Two flagship styles you'll recognize on sight:
+
+- **Style A — 电子杂志 × 电子墨水**. Monocle meets code. Narrative, opinion, sharing, personal-voice talks.
+- **Style B — 瑞士国际主义**. Grid-first, single high-saturation anchor color, hairline rules, extreme type-scale contrast. Product launches, analysis, methodology.
+
+Output is a single-file, horizontal-swipe HTML deck with built-in rehearsal and presenter modes; the skill also produces slide illustrations and multi-platform covers. The same author packages it, together with sibling card and page-layout skills, as a DeepSeek Harness plugin: [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design).
+
+**Fits**: offline sharing, industry-internal talks, private salons, AI product launches, demo day, speaker-led personal-style talks.
+**Doesn't fit**: dense tabular data, training materials (too low-density), real-time collaborative editing (static HTML).
+
+---
+
+#### 3. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) · ⭐ 28,440
+
+> *"Type. Hit enter. A finished design lands in your lap."* — HTML-native design skill for Claude Code, Codex, Cursor & any agent · editable PPTX · MP4 export.
 
 <p align="center">
   <a href="https://github.com/alchaincyf/huashu-design"><img src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/c2-slides-pptx-en.gif" width="720" alt="huashu-design — sentence to slides + editable PPTX"/></a>
   <br><sub>Above: one sentence → HTML deck + editable PPTX in ~15 min (the README's own demo).</sub>
 </p>
 
-Not "decent for AI" quality — the output looks like a real design team made it. Give it your brand assets (logo, colors, UI screenshots) and it reads your brand voice; give it nothing and the 20 built-in design vocabularies still keep the output out of AI-slop territory.
+Not "decent for AI" quality — the output looks like a real design team made it. Give it your brand assets (logo, colors, UI screenshots) and it reads your brand voice; give it nothing and, since 3.0, it sketches six thumbnails and develops the three strongest directions, drawing on a style library of 80+ styles, each with a visual specimen.
 
 | Capability | Deliverable | Typical time |
 | --- | --- | --- |
@@ -115,28 +138,15 @@ Not "decent for AI" quality — the output looks like a real design team made it
 | Motion design | MP4 (25fps / 60fps interpolation) + GIF (palette-optimized) + BGM | 8–12 min |
 | Design variations | 3+ side-by-side · live param tweaks · cross-dimension exploration | 10 min |
 | Infographic / data viz | Print-quality typography · exports to PDF / PNG / SVG | 10 min |
-| Design direction advisor | 5 schools × 20 philosophies · 3 directions recommended · demos generated in parallel | 5 min |
+| Xiaohongshu carousel / cover | 3:4 image sets (≤18) · 8 paradigm templates · continuous panorama strips · one-command slicing with checks | 10–15 min |
+| Design direction advisor | Three logics × two candidates each · six thumbnails → three real designs, the other three kept as alternates | 10 min |
 | 5-dimension expert critique | Radar chart + Keep / Fix / Quick Wins · actionable punch list | 3 min |
 
 Install: `npx skills add alchaincyf/huashu-design`.
 
 ---
 
-#### 3. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) · ⭐ 18,604
-
-> A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
-
-The "magazine voice" of the ecosystem. Two flagship styles you'll recognize on sight:
-
-- **Style A — 电子杂志 × 电子墨水**. Monocle meets code. Narrative, opinion, sharing, personal-voice talks.
-- **Style B — 瑞士国际主义**. Grid-first, single high-saturation anchor color, hairline rules, extreme type-scale contrast. Product launches, analysis, methodology.
-
-**Fits**: offline sharing, industry-internal talks, private salons, AI product launches, demo day, speaker-led personal-style talks.
-**Doesn't fit**: dense tabular data, training materials (too low-density), real-time collaborative editing (static HTML).
-
----
-
-#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) · ⭐ 8,837
+#### 4. [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) · ⭐ 10,739
 
 > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps.
 
@@ -155,37 +165,35 @@ A "Swiss army knife" skill — it'll happily produce a single landing page, a co
 
 ---
 
-#### 5. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) · ⭐ 6,411
+#### 5. [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) · ⭐ 10,258
 
-> HTML PPT Studio — A world-class AgentSkill for producing professional HTML presentations.
-
-<p align="center">
-  <a href="https://github.com/lewislulu/html-ppt-skill"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/hero.gif" width="720" alt="html-ppt-skill — hero with live previews"/></a>
-  <br><sub>Above: hero loop from the project's README — live previews cycling through themes.</sub>
-</p>
-
-By far the most feature-loaded skill on this list. Pure static HTML/CSS/JS, no build step, true presenter mode with pixel-perfect previews + speaker script + timer.
-
-- **36 themes** — `minimal-white`, `editorial-serif`, `soft-pastel`, `arctic-cool`, `catppuccin-latte`, `catppuccin-mocha`, `dracula`, `tokyo-night`, `nord`, `solarized-light`, `gruvbox-dark`, `rose-pine`, `neo-brutalism`, `glassmorphism`, `bauhaus`, `swiss-grid`, `xiaohongshu-white`, `aurora`, `blueprint`, `memphis-pop`, `cyberpunk-neon`, `y2k-chrome`, `retro-tv`, `japanese-minimal`, `vaporwave`, `midcentury`, `corporate-clean`, `academic-paper`, `news-broadcast`, `pitch-deck-vc`, `magazine-bold`, `engineering-whiteprint`, and more.
-- **15 full-deck templates** — 8 extracted from real-world decks (`xhs-white-editorial`, `graphify-dark-graph`, `knowledge-arch-blueprint`, `hermes-cyber-terminal`, `obsidian-claude-gradient`, `testing-safety-alert`, `xhs-pastel-card`, `dir-key-nav-minimal`) plus 7 scenario decks (`pitch-deck`, `product-launch`, `tech-sharing`, `weekly-report`, `xhs-post` 9-slide 3:4, `course-module`, `presenter-mode-reveal` 🎤 with 150–300 word speaker scripts on every slide).
-- **31 page layouts**, **47 animations** (27 CSS + 20 canvas FX), **presenter mode with the `S` key**.
+> An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 
 <p align="center">
-  <a href="https://github.com/lewislulu/html-ppt-skill"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/themes.png" width="720" alt="html-ppt-skill — 8 of 36 themes"/></a>
-  <br><sub>8 of 36 themes.</sub>
+  <a href="https://github.com/chuspeeism/dashi-ppt-skill"><img src="https://github.com/chuspeeism/dashi-ppt-skill/releases/download/readme-assets-v1/hero-result.gif" width="720" alt="dashi-ppt-skill — generated deck with per-page console"/></a>
+  <br><sub>Above: a generated deck and its per-page editing console (from the project's README).</sub>
 </p>
+
+The output is the editor: every page of the generated deck carries its own console — sliders, toggles and dropdowns to switch layouts, change how many modules a page shows, swap palettes or shift the page's emphasis — and any text can be clicked and edited in place. Aimed at work decks (research, reviews, proposals, pitch decks) rather than pixel-level custom design.
+
+- **12 visual themes**, **1,020 layout pages** across 20 page roles (cover, TOC, metrics, trends, comparison, flow, risks, ending…), **8,576 tunable controls**.
+- **Charts and analysis frameworks** as ready-made layouts — radar, waterfall, treemap, funnel, heatmap, Sankey, Gantt, plus SWOT, Porter's Five Forces, PEST, Business Model Canvas and Double Diamond.
+- **Media slots** — click or drag to replace images and video; text-only sources get image placeholders automatically.
+- **One-click export** to an offline HTML bundle, PDF, or editable PPTX (needs a local Chrome / Chromium / Edge).
+
+Install: `npx dashi-ppt-skill@latest` (Node.js 20+). Licensed AGPL-3.0.
 
 ---
 
-#### 6. [1weiho/open-slide](https://github.com/1weiho/open-slide) · ⭐ 5,498
+#### 6. [open-slide/open-slide](https://github.com/open-slide/open-slide) · ⭐ 9,612
 
 > The slide framework built for agents. Describe your deck in natural language — your coding agent writes the React. open-slide handles the canvas, scaling, navigation, hot reload, and present mode so the agent can focus on content.
 
 <p align="center">
-  <a href="https://github.com/1weiho/open-slide"><img src="https://github.com/user-attachments/assets/02f5e6d7-12a7-4a8e-88e7-ae8770a96584" width="720" alt="open-slide cover"/></a>
+  <a href="https://github.com/open-slide/open-slide"><img src="https://github.com/user-attachments/assets/02f5e6d7-12a7-4a8e-88e7-ae8770a96584" width="720" alt="open-slide cover"/></a>
 </p>
 
-Architecturally different from the rest of Tier S — open-slide is a **framework**, not a pure markdown skill. Every slide renders into a fixed 1920×1080 canvas as an arbitrary React component, not a constrained DSL. The scaffolder ships with two agent skills (`/create-slide` and `/slide-authoring`) so the deck-authoring loop stays inside Claude Code / Codex / Cursor.
+Architecturally different from most of Tier S — open-slide is a **framework**, not a pure markdown skill. Every slide renders into a fixed 1920×1080 canvas as an arbitrary React component, not a constrained DSL. The scaffolder ships with two agent skills (`/create-slide` and `/slide-authoring`) so the deck-authoring loop stays inside Claude Code / Codex / Cursor. (The repo moved from `1weiho/open-slide` to the `open-slide` organization.)
 
 **Highlights**
 
@@ -199,7 +207,29 @@ Install: `npx @open-slide/cli init my-slide`.
 
 ---
 
-#### 7. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 3,096
+#### 7. [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) · ⭐ 8,943
+
+> HTML PPT Studio — A world-class AgentSkill for producing professional HTML presentations.
+
+<p align="center">
+  <a href="https://github.com/lewislulu/html-ppt-skill"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/hero.gif" width="720" alt="html-ppt-skill — hero with live previews"/></a>
+  <br><sub>Above: hero loop from the project's README — live previews cycling through themes.</sub>
+</p>
+
+By far the most feature-loaded skill on this list. Pure static HTML/CSS/JS, no build step, true presenter mode with pixel-perfect previews + speaker script + timer.
+
+- **36 themes** — `minimal-white`, `editorial-serif`, `soft-pastel`, `arctic-cool`, `catppuccin-latte`, `catppuccin-mocha`, `dracula`, `tokyo-night`, `nord`, `solarized-light`, `gruvbox-dark`, `rose-pine`, `neo-brutalism`, `glassmorphism`, `bauhaus`, `swiss-grid`, `xiaohongshu-white`, `aurora`, `blueprint`, `memphis-pop`, `cyberpunk-neon`, `y2k-chrome`, `retro-tv`, `japanese-minimal`, `vaporwave`, `midcentury`, `corporate-clean`, `academic-paper`, `news-broadcast`, `pitch-deck-vc`, `magazine-bold`, `engineering-whiteprint`, and more.
+- **15 full-deck templates** — 8 extracted from real-world decks (`xhs-white-editorial`, `graphify-dark-graph`, `knowledge-arch-blueprint`, `hermes-cyber-terminal`, `obsidian-claude-gradient`, `testing-safety-alert`, `xhs-pastel-card`, `dir-key-nav-minimal`) plus 7 scenario decks (`pitch-deck`, `product-launch`, `tech-sharing`, `weekly-report`, `xhs-post` 9-slide 3:4, `course-module`, `presenter-mode-reveal` 🎤 with 150–300 word speaker scripts on every slide).
+- **36 page layouts**, **47 animations** (27 CSS + 20 canvas FX), **presenter mode with the `S` key**.
+
+<p align="center">
+  <a href="https://github.com/lewislulu/html-ppt-skill"><img src="https://raw.githubusercontent.com/lewislulu/html-ppt-skill/main/docs/readme/themes.png" width="720" alt="html-ppt-skill — 8 of 36 themes"/></a>
+  <br><sub>8 of 36 themes.</sub>
+</p>
+
+---
+
+#### 8. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 4,914
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -214,13 +244,32 @@ Also listed under [Templates](#templates) below.
 
 ---
 
+#### 9. [stackblitz/bolt-slides](https://github.com/stackblitz/bolt-slides) · ⭐ 1,152
+
+> Use any agent to create stunning, interactive presentations.
+
+<p align="center">
+  <a href="https://github.com/stackblitz/bolt-slides"><img src="https://raw.githubusercontent.com/stackblitz/bolt-slides/main/.github/assets/demo.gif" width="720" alt="Bolt Slides — from one prompt to a finished interactive deck"/></a>
+  <br><sub>Above: one prompt in Bolt → a finished interactive deck (the README's own demo).</sub>
+</p>
+
+From StackBlitz, the team behind Bolt. Like open-slide, it is a React deck framework with a bundled agent skill rather than a single-file template: every slide is a plain React component, so a slide can fetch live data, mount a 3D scene or embed a working prototype. The skill ([`.bolt/skills/slides/SKILL.md`](https://github.com/stackblitz/bolt-slides/blob/main/.bolt/skills/slides/SKILL.md)) teaches Claude Code, Codex, Cursor or Bolt how to theme, compose and write the deck.
+
+- **Component library** — `Cover`, `Agenda`, `Section`, `Split`, `Bento`, charts (bar · line · donut), `Table`, `StatGrid`, `Timeline`, `Comparison`, `CodeWindow`, `BrowserFrame`, `Pricing`, `Globe` and more, all responsive.
+- **Presenting** — thumbnail sidebar, grid overview, click-builds (`<Build at={n}>`), content-anchored annotations, and a presenter mode synced to a second tab (timer, next-slide preview, editable notes).
+- **Theming** from a single `tokens.css` block; nine theme directions are documented in the skill.
+
+The deck is a web app (Vite build) shared as a link — there is no `.pptx` output. MIT.
+
+---
+
 ### Tier A · Production-ready / 100–1000 stars
 
 Mature, actively maintained skills with a clear style point of view. Best when you know roughly what you want — e.g. "I need a McKinsey-style consulting deck" — and want a skill that does *only* that, well.
 
 ---
 
-#### 8. [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) · ⭐ 597
+#### 10. [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) · ⭐ 652
 
 > 渐进交互式 PPT 生成 skill — progressive interactive PPT generation.
 
@@ -237,7 +286,7 @@ Notable for treating the HTML→PPTX export problem as a first-class concern, no
 
 ---
 
-#### 9. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) · ⭐ 362
+#### 11. [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) · ⭐ 547
 
 > Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion.
 
@@ -252,7 +301,19 @@ Editable fork of `zarazhangrui/frontend-slides`. Keeps the upstream style discov
 
 ---
 
-#### 10. [vigorX777/ppt-svg-generator](https://github.com/vigorX777/ppt-svg-generator) · ⭐ 238
+#### 12. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) · ⭐ 328
+
+> Consulting firm–style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格 PPT 设计系统。
+
+<p align="center">
+  <a href="https://github.com/likaku/Mck-ppt-design-skill"><img src="https://github.com/user-attachments/assets/075ec46d-dd73-4454-92d0-84184b78d276" width="380" alt="Mck cover slide"/>&nbsp;<img src="https://github.com/user-attachments/assets/3b25f071-8a81-48e3-a62b-9d9be9026f2e" width="380" alt="Mck content slide"/></a>
+</p>
+
+AI-native PowerPoint design system — 67 layouts · Harness Engineering · BLOCK_ARC charts · QA pipeline · Python runtime. The most opinionated McKinsey/BCG-style skill in the list; outputs lean PPTX rather than HTML, useful when the audience expects a `.pptx` file but you want consulting-grade typography.
+
+---
+
+#### 13. [vigorX777/ppt-svg-generator](https://github.com/vigorX777/ppt-svg-generator) · ⭐ 262
 
 > Skill that converts Markdown into HTML/PDF presentations with multiple preset styles.
 
@@ -270,37 +331,7 @@ Editable fork of `zarazhangrui/frontend-slides`. Keeps the upstream style discov
 
 ---
 
-#### 11. [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) · ⭐ 198
-
-> Consulting firm–style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格 PPT 设计系统。
-
-<p align="center">
-  <a href="https://github.com/likaku/Mck-ppt-design-skill"><img src="https://github.com/user-attachments/assets/075ec46d-dd73-4454-92d0-84184b78d276" width="380" alt="Mck cover slide"/>&nbsp;<img src="https://github.com/user-attachments/assets/3b25f071-8a81-48e3-a62b-9d9be9026f2e" width="380" alt="Mck content slide"/></a>
-</p>
-
-AI-native PowerPoint design system — 67 layouts · Harness Engineering · BLOCK_ARC charts · QA pipeline · Python runtime. The most opinionated McKinsey/BCG-style skill in the list; outputs lean PPTX rather than HTML, useful when the audience expects a `.pptx` file but you want consulting-grade typography.
-
----
-
-#### 12. [bytonylee/future-slide-skill](https://github.com/bytonylee/future-slide-skill) · ⭐ 135
-
-> Reusable slide-generation skill for image-based and HTML-based AI workflows.
-
-<p align="center">
-  <a href="https://github.com/bytonylee/future-slide-skill"><img src="https://raw.githubusercontent.com/bytonylee/future-slide-skill/main/public/four-skill-flow.png" width="720" alt="future-slide-skill flow"/></a>
-</p>
-
-One of the few skills designed to switch cleanly between image-rendered slides (e.g. for social media carousels) and live HTML decks from the same content IR.
-
----
-
-### Tier B · Emerging / specialized
-
-Smaller star counts, but several of these are the *best* option for their niche — Huawei-style strategy decks, knowledge-retention teaching slides, anti-AI-slop design tokens, etc.
-
----
-
-#### 13. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) · ⭐ 91
+#### 14. [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) · ⭐ 172
 
 > World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear / Anthropic / Stripe / Apple / NYT.
 
@@ -320,7 +351,87 @@ Models a full agency workflow rather than "outline → template": research first
 
 ---
 
-#### 14. [edu-ai-builders/visual-cognition-slides](https://github.com/edu-ai-builders/visual-cognition-slides) · ⭐ 72
+#### 15. [humantonylee/future-slide](https://github.com/humantonylee/future-slide) · ⭐ 152
+
+> Reusable slide-generation skill for image-based and HTML-based AI workflows.
+
+<p align="center">
+  <a href="https://github.com/humantonylee/future-slide"><img src="https://raw.githubusercontent.com/humantonylee/future-slide/main/public/diagram/four-skill-flow.png" width="720" alt="future-slide-skill flow"/></a>
+</p>
+
+One of the few skills designed to switch cleanly between image-rendered slides (e.g. for social media carousels) and live HTML decks from the same content IR. (Formerly `bytonylee/future-slide-skill`.)
+
+---
+
+#### 16. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 130
+
+> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master).
+
+Meta-collection rather than a single skill. The author packages multiple distinct visual systems (`japanese-style-ppt-skill`, `soft-3d-clay-ppt-skill`, `futuristic-tech-editorial-ppt-skill`, `minimalist-luxury-branding-ppt-skill`, `modern-illustration-editorial-ppt-skill`, `japanese-hand-drawn-editorial-ppt-skill`) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.
+
+Also listed under [Templates](#templates) below.
+
+---
+
+#### 17. [joeseesun/qiaomu-bento-ppt](https://github.com/joeseesun/qiaomu-bento-ppt) · ⭐ 127
+
+> Turn source material into an editable, presentable, offline-ready bento deck — one self-contained HTML file.
+
+<p align="center">
+  <a href="https://github.com/joeseesun/qiaomu-bento-ppt"><img src="https://raw.githubusercontent.com/joeseesun/qiaomu-bento-ppt/main/docs/assets/qiaomu-bento-ppt-hero.png" width="720" alt="qiaomu-bento-ppt — a generated bento deck"/></a>
+</p>
+
+Builds decks in the [bento](https://github.com/nyblnet/bento) `.bento.html` format, where one file carries the document, the viewer and the editor — the recipient double-clicks it to present, edit and save, with no PowerPoint install or cloud login. The skill first settles audience, conclusion and narrative arc, then routes each piece of content to a fitting primitive: trends to charts, specs to tables, before/after to morphs, key numbers to count-ups.
+
+- **Standalone** — a release-pinned bento shell and the official authoring references are bundled, so no bento checkout or network download is needed after install.
+- **Deterministic build and validation** — scripts check document identity, structure and the shell, and write a validation report for every deck.
+- **Edits existing decks** — can modify a `.bento.html` file while preserving its document id.
+
+Install: `npx skills add joeseesun/qiaomu-bento-ppt`.
+
+---
+
+#### 18. [gongnyang/awesome-html-scrolline-deck](https://github.com/gongnyang/awesome-html-scrolline-deck) · ⭐ 102
+
+> Scroll-driven presentation decks: one continuous timeline, beats that turn into the next, six concept packs and 80 moves.
+
+<p align="center">
+  <a href="https://github.com/gongnyang/awesome-html-scrolline-deck"><img src="https://raw.githubusercontent.com/gongnyang/awesome-html-scrolline-deck/main/docs/hero.png" width="720" alt="Scrolline decks — a time rail, a morphing chart and a zoom into a single bar"/></a>
+</p>
+
+Despite the name, this is a tool (Scrolline) with a Claude Code skill, not a list. You write a `deck.yaml`; every beat is laid on one paused GSAP timeline that the mouse wheel scrubs and presenter keys jump through, and the same timeline renders to MP4. Instead of cutting between slides, "link moves" carry an element (a bar, a dot, a date) from one beat into its place in the next.
+
+- **Six concept packs** — `rail` (time rail), `data` (data journalism), `launch`, `zoom` (infinite drill-down), `canvas` (camera flythrough), `kinetic` (kinetic type) — each with its own camera axis, timing and signature moves.
+- **CLI** to scaffold a deck from a concept, compute stops and timings, and export MP4.
+- Requires Node.js 22+; the six example decks are in Korean. MIT.
+
+---
+
+#### 19. [borjaperfra/beatdeck](https://github.com/borjaperfra/beatdeck) · ⭐ 100
+
+> Talks as beats, not slides: a fixed 1920×1080 React stage where one click is one beat. Offline, deterministic, presenter view, and a Claude Code skill.
+
+<p align="center">
+  <a href="https://github.com/borjaperfra/beatdeck"><img src="https://raw.githubusercontent.com/borjaperfra/beatdeck/main/docs/media/demo-state.jpg" width="720" alt="beatdeck demo — a state diagram built one node per click"/></a>
+  <br><sub>A state diagram built one node per click (from the demo deck).</sub>
+</p>
+
+Built for speaker-led technical talks where a diagram grows, a counter runs or a terminal prints on cue. A talk is a few scenes, each a sequence of beats; the whole state is `{ scene, beat }`, so `#3.4` in the URL always renders the same frame whether you arrived going forward, going back or by refreshing.
+
+- **One stage** — fixed 1920×1080, scaled with a black letterbox, so nothing reflows on the projector.
+- **Offline by construction** — fonts, images and QR codes are bundled or computed locally; the build fails if anything references the network.
+- **Built-in components** — `Reveal`, `CountUp`, `Typewriter`, `Terminal`, self-drawing `NodeBox` + `Arrow` diagrams, `Plot` charts, local `QR`.
+- **Operator tools** — presenter window (current/next beat, notes, timer), overview, blackout; the bundled skill (`building-a-beatdeck`) writes the talk with you. MIT.
+
+---
+
+### Tier B · Emerging / specialized
+
+Smaller star counts, but several of these are the *best* option for their niche — Huawei-style strategy decks, knowledge-retention teaching slides, anti-AI-slop design tokens, etc.
+
+---
+
+#### 20. [edu-ai-builders/visual-cognition-slides](https://github.com/edu-ai-builders/visual-cognition-slides) · ⭐ 89
 
 > An HTML slide design skill grounded in cognitive science and instructional design. Outputs presentation decks optimized for knowledge retention.
 
@@ -331,17 +442,57 @@ Every decision — narrative structure, per-slide layout, animation choice — a
 
 ---
 
-#### 15. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 56
+#### 21. [UniUni2000/slideblocks-skill](https://github.com/UniUni2000/slideblocks-skill) · ⭐ 81
 
-> Agent-agnostic PPT design skills for generating polished PowerPoint decks with [ppt-master](https://github.com/hugohe3/ppt-master).
+> SlideBlocks agent skill for creating and improving Slidev presentations.
 
-Meta-collection rather than a single skill. The author packages multiple distinct visual systems (`japanese-style-ppt-skill`, `soft-3d-clay-ppt-skill`, `futuristic-tech-editorial-ppt-skill`, `minimalist-luxury-branding-ppt-skill`, `modern-illustration-editorial-ppt-skill`, `japanese-hand-drawn-editorial-ppt-skill`) and ships them as a stable visual layer for whichever coding agent you happen to use (Codex, Claude Code, Cursor, OpenCode, OpenClaw, Hermes). Traditional Chinese decks are first-class.
+<p align="center">
+  <a href="https://github.com/UniUni2000/slideblocks-skill"><img src="https://raw.githubusercontent.com/UniUni2000/slideblocks-skill/main/media/showcase.png" width="720" alt="16 SlideBlocks pages"/></a>
+</p>
 
-Also listed under [Templates](#templates) below.
+Builds on [Slidev](https://sli.dev): hand the agent your materials (e.g. *"turn this paper into a 15-minute research talk"*) and it writes the Slidev source, then gives you an `offline.html` to present from Chrome or Edge — fullscreen, presenter view, slide overview and annotation tools. Ordinary text can be double-clicked and edited in the browser and saved with ⌘/Ctrl + S; right-click exports offline HTML or PDF. No `.pptx` output; an agent with image-generation tools is recommended. MIT.
+
+Install: `npx skills add UniUni2000/slideblocks-skill`.
 
 ---
 
-#### 16. [WayneZhon/KingDee-PPT-Skill](https://github.com/WayneZhon/KingDee-PPT-Skill) · ⭐ 54
+#### 22. [Jane-xiaoer/paper-collage-ppt](https://github.com/Jane-xiaoer/paper-collage-ppt) · ⭐ 68
+
+> An agent skill by Xiaoer (小耳) for creating expressive HTML presentation decks in multiple visual styles.
+
+Started as a paper-cut collage style (小耳剪纸风) and now ships a small style gallery: 好奇果冻 3D (translucent jelly type and clay objects, Three.js), 顽趣实验室 3D (a playful lab with original monster characters) and 小耳几何风 (flat, interlocking geometric grids).
+
+- **Paper-collage deck** — single-file HTML (keyboard / wheel / touch), 20 layout skeletons, and 14 art-history palettes (Matisse cut-outs, Mondrian, Bauhaus, Klein blue, Monet, Hokusai, Dunhuang murals…) that viewers can switch from an in-deck panel with an accent-hue slider.
+- **Text stays real HTML**, so it never garbles; illustrations can optionally be generated with nano-banana.
+- **Editable PPTX export** — scripts for the paper-collage and 3D styles keep real text boxes. MIT.
+
+---
+
+#### 23. [zuiho-kai/huawei-style-ppt-skill](https://github.com/zuiho-kai/huawei-style-ppt-skill) · ⭐ 66
+
+> 华为风格 PPT Skill — high-density information PPT workflow.
+
+<p align="center">
+  <a href="https://github.com/zuiho-kai/huawei-style-ppt-skill"><img src="https://raw.githubusercontent.com/zuiho-kai/huawei-style-ppt-skill/master/examples/rd-quarterly/screenshots/01-cover.png" width="720" alt="Huawei-style demo — R&amp;D quarterly review cover"/></a>
+</p>
+
+End-to-end workflow specifically tuned for Huawei-style strategy pages, architecture overviews, data insights, and side-by-side solution comparisons — i.e. document-style high-density decks that are intentionally heavier than a typical slide.
+
+---
+
+#### 24. [arifszn/slide-wright](https://github.com/arifszn/slide-wright) · ⭐ 66
+
+> Make a presentation with your coding agent. Preview two slides, approve, then build and export to PowerPoint or PDF.
+
+<p align="center">
+  <a href="https://github.com/arifszn/slide-wright"><img src="https://github.com/user-attachments/assets/3e496913-753c-4761-873c-b7f6618a0b93" width="720" alt="slide-wright"/></a>
+</p>
+
+A preview-first loop: from a topic, rough notes or an outline it generates a custom palette and typography plus a two-slide preview, and builds the full self-contained HTML deck only after you approve (or generates a fresh direction if you don't). Includes speaker view with notes, overview and blackout keys, and can deploy the deck to a live URL. PowerPoint export keeps text as editable text boxes with speaker notes, while shapes, charts and images are baked into each slide's background. Installs as a Claude Code plugin or into any `SKILL.md` agent. MIT.
+
+---
+
+#### 25. [WayneZhon/KingDee-PPT-Skill](https://github.com/WayneZhon/KingDee-PPT-Skill) · ⭐ 59
 
 > 将文字、大纲、文档一键转换为金蝶官方风格 .pptx 或交互式 HTML 幻灯片。
 
@@ -349,7 +500,7 @@ Fully reproduces the 2026 official Kingdee International template design languag
 
 ---
 
-#### 17. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) · ⭐ 44
+#### 26. [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) · ⭐ 57
 
 > A skill for Claude Code and OpenClaw that generates stunning, zero-dependency HTML presentations.
 
@@ -368,34 +519,7 @@ Fully reproduces the 2026 official Kingdee International template design languag
 
 ---
 
-#### 18. [FeeiCN/slide-writer](https://github.com/FeeiCN/slide-writer) · ⭐ 37
-
-> A slide-writing skill that generates enterprise HTML presentations from ideas, outlines, documents, and speech drafts.
-
-<p align="center">
-  <a href="https://github.com/FeeiCN/slide-writer"><img src="https://raw.githubusercontent.com/FeeiCN/slide-writer/main/examples/slide-writer.png" width="720" alt="slide-writer example"/></a>
-</p>
-
-- **Any input → enterprise-grade deck** — sentence, outline, speech draft, notes, existing HTML.
-- **14 brand themes, auto-detected** — Ant Group, Alibaba, Tencent, ByteDance and more. Mention the keyword, the right theme/logo/colors load automatically.
-- **Single-file delivery** — one standalone HTML; CSS, JS, images all embedded. Opens in any browser.
-- **Always up to date** — pulls latest themes, components, and generation rules on every run.
-
----
-
-#### 19. [zuiho-kai/huawei-style-ppt-skill](https://github.com/zuiho-kai/huawei-style-ppt-skill) · ⭐ 35
-
-> 华为风格 PPT Skill — high-density information PPT workflow.
-
-<p align="center">
-  <a href="https://github.com/zuiho-kai/huawei-style-ppt-skill"><img src="https://raw.githubusercontent.com/zuiho-kai/huawei-style-ppt-skill/master/docs/demo-1.jpg" width="720" alt="Huawei-style demo"/></a>
-</p>
-
-End-to-end workflow specifically tuned for Huawei-style strategy pages, architecture overviews, data insights, and side-by-side solution comparisons — i.e. document-style high-density decks that are intentionally heavier than a typical slide.
-
----
-
-#### 20. [codesstar/next-slide](https://github.com/codesstar/next-slide) · ⭐ 34
+#### 27. [codesstar/next-slide](https://github.com/codesstar/next-slide) · ⭐ 55
 
 > 你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual. Works with Claude Code & OpenClaw, Hermes Agent.
 
@@ -413,7 +537,49 @@ Each style is a complete design system: curated typography, color palette, layou
 
 ---
 
-#### 21. [Phlegonlabs/Powerpoint-fancy-design](https://github.com/Phlegonlabs/Powerpoint-fancy-design) · ⭐ 25
+#### 28. [RinDig/lecture-deck-skill](https://github.com/RinDig/lecture-deck-skill) · ⭐ 51
+
+> Build animated, themed HTML lecture and workshop decks from a storyboard. A Claude skill plus a Python kit with three themes.
+
+<p align="center">
+  <a href="https://github.com/RinDig/lecture-deck-skill"><img src="https://raw.githubusercontent.com/RinDig/lecture-deck-skill/master/examples/demo/shots/readme-themes.png" width="720" alt="lecture-deck demo screens in three themes"/></a>
+</p>
+
+Designed for live teaching sessions (in a room or on Zoom) with breakouts and screen-share handoffs: one claim per screen, one picture that shows the mechanism, speaker notes that carry the depth, and a mode strip on every screen so the room always knows who has the screen. Each deck is one self-contained HTML file with keyboard navigation, notes panel, overview, blackout, print-to-handout and copy-to-clipboard prompts. Three themes ship (`eduba`, `slate`, `paper`) — a theme is one JSON file — and bundled scripts render a PNG per screen for checking. MIT.
+
+---
+
+#### 29. [patrick-fu/frontend-harness-slides](https://github.com/patrick-fu/frontend-harness-slides) · ⭐ 45
+
+> Build slide decks as a harness-guarded engineering project — robust, maintainable, and hard to break. A step up from single-file HTML slides.
+
+<p align="center">
+  <a href="https://github.com/patrick-fu/frontend-harness-slides"><img src="https://raw.githubusercontent.com/patrick-fu/frontend-harness-slides-workbench/main/public/showcase/product-keynote.webp" width="720" alt="Minimal Product Keynote preset — hero frame"/></a>
+  <br><sub>Minimal Product Keynote preset, from the project's style gallery.</sub>
+</p>
+
+For the phase after the first draft, when a growing deck starts breaking under edits. The skill has the agent treat the deck as a small, testable web app: stable scene and beat addresses, a registry tooling can enumerate, a fixed-ratio stage, a frozen mode for repeatable screenshots, event-isolated interactions, and smoke tests for missing content, overflow and navigation leaks. Style presets span six families (Minimal Keynote, Balanced Hybrid, Editorial & Print, Craft & Cultural Traditions, Contemporary Digital, Text Report). Ships as a live site, a PDF, or both. MIT.
+
+Install: `npx skills add patrick-fu/frontend-harness-slides -g`.
+
+---
+
+#### 30. [FeeiCN/slide-writer](https://github.com/FeeiCN/slide-writer) · ⭐ 44
+
+> A slide-writing skill that generates enterprise HTML presentations from ideas, outlines, documents, and speech drafts.
+
+<p align="center">
+  <a href="https://github.com/FeeiCN/slide-writer"><img src="https://raw.githubusercontent.com/FeeiCN/slide-writer/main/examples/slide-writer.png" width="720" alt="slide-writer example"/></a>
+</p>
+
+- **Any input → enterprise-grade deck** — sentence, outline, speech draft, notes, existing HTML.
+- **14 brand themes, auto-detected** — Ant Group, Alibaba, Tencent, ByteDance and more. Mention the keyword, the right theme/logo/colors load automatically.
+- **Single-file delivery** — one standalone HTML; CSS, JS, images all embedded. Opens in any browser.
+- **Always up to date** — pulls latest themes, components, and generation rules on every run.
+
+---
+
+#### 31. [Phlegonlabs/Powerpoint-fancy-design](https://github.com/Phlegonlabs/Powerpoint-fancy-design) · ⭐ 42
 
 > A presentation-design skill for Codex and Claude Code that turns page-structured Markdown into styled 1600x900 HTML slides, PNG renders, and exportable PPTX decks.
 
@@ -430,27 +596,7 @@ Each style is a complete design system: curated typography, color palette, layou
 
 ---
 
-#### 22. [xhshow2025/-PPT-sense-deck-skill-](https://github.com/xhshow2025/-PPT-sense-deck-skill-) · ⭐ 22
-
-> 鲸格 PPT — a Codex Skill for generating high-quality browser-native presentations.
-
-Static HTML/CSS/JS output with a complete pipeline: content IR, theme system, full deck templates, single-page layouts, animation runtime, presenter mode, editable mode, gesture controls, export helpers.
-
-**Distinctive themes**
-
-- `apple-bento-glass` — AI / product strategy / new-category launches.
-- `executive-clean` — board reports, strategy updates, investor updates, weekly reports.
-- `semantic-dark` — tech sharing, architecture walkthroughs, AI systems, developer demos.
-- `xhs-editorial` — Xiaohongshu image-text, social carousels, consumer education.
-- `cyber-neon` — Demo Day, RGB hardware, cyberpunk launches.
-- `warm-paper` — courses, lecture notes, stories, cultural themes.
-- `nordic-childrens-picture-book` — Nordic children's-book nostalgia and humor.
-- 史诗级 — historical cultural narratives, 昭君出塞, Chinese cinematic feel.
-- `neon-noir-city` — cyberpunk city, AI future life, 2098-style narratives.
-
----
-
-#### 23. [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) · ⭐ 22
+#### 32. [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) · ⭐ 33
 
 > 50,000+ unique HTML presentation designs. Zero dependencies. Anti-AI-slop. A Claude Code skill.
 
@@ -467,13 +613,73 @@ Fights AI-generated mediocrity with a **token-based design system** and a strict
 
 ---
 
+#### 33. [jxshow/Jingge-PPT-skill](https://github.com/jxshow/Jingge-PPT-skill) · ⭐ 25
+
+> 鲸格PPT：17种视觉风格，可编辑HTML演示文稿、汇报、讲堂与发布模板。 — 17 visual styles; editable HTML decks and templates for reports, lectures and launches.
+
+<p align="center">
+  <a href="https://github.com/jxshow/Jingge-PPT-skill"><img src="https://raw.githubusercontent.com/jxshow/Jingge-PPT-skill/main/examples/style-atlas/%E9%B2%B8%E6%A0%BCPPT-%E5%85%A8%E9%83%A8%E9%A3%8E%E6%A0%BC%E6%80%BB%E8%A7%88.png" width="720" alt="Jingge PPT — overview of all 17 styles"/></a>
+</p>
+
+鲸格 PPT — a Codex Skill for generating high-quality browser-native presentations. Static HTML/CSS/JS output with a complete pipeline: content IR, theme system, full deck templates, single-page layouts, animation runtime, presenter mode, editable mode, gesture controls, export helpers. (Formerly `xhshow2025/-PPT-sense-deck-skill-`.)
+
+**Distinctive themes**
+
+- `apple-bento-glass` — AI / product strategy / new-category launches.
+- `executive-clean` — board reports, strategy updates, investor updates, weekly reports.
+- `semantic-dark` — tech sharing, architecture walkthroughs, AI systems, developer demos.
+- `xhs-editorial` — Xiaohongshu image-text, social carousels, consumer education.
+- `cyber-neon` — Demo Day, RGB hardware, cyberpunk launches.
+- `warm-paper` — courses, lecture notes, stories, cultural themes.
+- `nordic-childrens-picture-book` — Nordic children's-book nostalgia and humor.
+- 史诗级 — historical cultural narratives, 昭君出塞, Chinese cinematic feel.
+- `neon-noir-city` — cyberpunk city, AI future life, 2098-style narratives.
+
+---
+
+## Export to editable PowerPoint (PPTX)
+
+HTML is the better authoring format, but many decks end up with someone who only works in PowerPoint — a client who wants to change the numbers, an event that only accepts `.pptx` uploads, a team whose templates live in Office. "Export to PPTX" can mean two quite different files, so check which one a tool produces:
+
+- **Image-per-slide PPTX** — each slide is a screenshot placed on a PowerPoint page. Pixel-exact and fine for projecting, but nothing is editable.
+- **Editable PPTX** — text becomes native text boxes and simple shapes become PowerPoint shapes; effects PowerPoint can't express (complex gradients, filters, WebGL, 3D) are flattened into pictures. Expect some cleanup of fonts and line breaks.
+
+**Built into skills on this list**
+
+- [dashi-ppt-skill](#5-chuspeeismdashi-ppt-skill---10258) — one-click editable PPTX from its in-browser editor.
+- [huashu-design](#3-alchaincyfhuashu-design---28440) — HTML deck plus an editable PPTX with text frames preserved.
+- [ppt-agent-workflow-san](#10-mucsbrppt-agent-workflow-san---652) — a separate `html-slide-to-pptx/` stage for structured HTML slides.
+- [paper-collage-ppt](#22-jane-xiaoerpaper-collage-ppt---68) — per-style export scripts that keep real text boxes.
+- [slide-wright](#24-arifsznslide-wright---66) — editable text and speaker notes; shapes, charts and images baked into each slide's background.
+
+**Converting an existing HTML deck**
+
+| Project | Stars | How it works |
+| --- | --- | --- |
+| [atharva9167j/dom-to-pptx](https://github.com/atharva9167j/dom-to-pptx) | 389 | Client-side JavaScript library built on PptxGenJS: walks the DOM, reads computed styles and maps elements to native shapes and text boxes; v2 adds speaker notes and PowerPoint animations / transitions. Also installs as an agent skill (`npx dom-to-pptx-skills`). MIT. |
+| [Hasasasa/html-to-editable-pptx](https://github.com/Hasasasa/html-to-editable-pptx) | 94 | Agent skill + Python CLI for single-file decks (beautiful-html-templates, guizang-ppt-skill, Reveal.js, hand-written). Native text boxes, on-demand font subsetting, local snapshots for CSS effects PowerPoint can't express, and HTML-vs-PPTX side-by-side audit images. MIT. |
+| [wangzan101/html-to-ppt-pdf](https://github.com/wangzan101/html-to-ppt-pdf) | 40 | Skill for guizang-ppt-skill decks: Playwright captures each page at 1920×1080 into a PDF and an image-per-slide PPTX. Not editable, but visually exact. MIT. |
+| [Design-Arena/html-to-pptx](https://github.com/Design-Arena/html-to-pptx) | 25 | Python CLI / library (`pip install html-to-pptx`) that measures every DOM element in headless Chromium and maps it to a PPTX shape. MIT. |
+
+Anthropic's [`pptx` skill](https://github.com/anthropics/skills/tree/main/skills/pptx) (in `anthropics/skills`) used to ship an `html2pptx` workflow — author slides as HTML, convert them with a bundled script. That workflow was removed in February 2026; the current skill has the agent write [PptxGenJS](https://github.com/gitbrent/PptxGenJS) scripts directly, plus validation and thumbnail tools. It fits when you are happy for the agent to rebuild the deck natively rather than convert your HTML. The skill is source-available under a proprietary license.
+
+**Rasterize, then rebuild**
+
+When a deck relies on things a DOM-to-shape converter can't follow (WebGL backgrounds, canvas, 3D), export it to PDF or slide screenshots first — most skills above can export PDF, or print from Chrome — then use a tool that reconstructs editable text boxes and shapes from the images:
+
+- [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) · 3,217 ⭐ — open-source Codex skill that rebuilds slide images, PDFs and image-based PPTX page by page: OCR'd text becomes native text boxes, simple geometry becomes shapes, complex visuals stay as separate image assets. Runs on your own Codex quota (its README recommends ChatGPT Pro for multi-page decks). MIT.
+- [ToseaAI/editable-pptx-skill](https://github.com/ToseaAI/editable-pptx-skill) — *coming soon.* A Claude Code / Codex skill that sends PDFs, slide screenshots or images to the [Reslide](https://reslide.tosea.ai) API and returns an editable PPTX. Billed per page; new accounts get 10 free pages. *(Made by Tosea.ai, which maintains this list.)*
+- Tosea.ai web tools, free with sign-in (a shared allowance of 5 pages a month on the free plan): [PDF to PPT](https://tosea.ai/free-tools/pdf-to-ppt) · [Image to editable PPT](https://tosea.ai/free-tools/image-to-editable-ppt) · [NotebookLM slides to PowerPoint](https://tosea.ai/free-tools/notebooklm-slides-to-powerpoint).
+
+---
+
 ## Templates
 
 Hand-crafted HTML template libraries — drop them into a project, point your agent at the folder, get a deck.
 
 ---
 
-#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 3,096
+#### T1. [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) · ⭐ 4,914
 
 > A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 
@@ -486,7 +692,7 @@ Hand-crafted HTML template libraries — drop them into a project, point your ag
 
 ---
 
-#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 56
+#### T2. [software-ai-life/Awesome-PPT-Design-Skills](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · ⭐ 130
 
 > Agent-agnostic PPT design skills, distributed as a library of style packs.
 
