@@ -673,7 +673,7 @@ Anthropic 官方的 [`pptx` skill](https://github.com/anthropics/skills/tree/mai
 
 - [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) · 3,217 ⭐ — 开源 Codex Skill，逐页重建幻灯片图片、PDF 和图片型 PPTX：OCR 识别的文字恢复为原生文本框，简单几何恢复为形状，复杂视觉保留为独立图片素材。消耗你自己的 Codex 额度（其 README 建议多页 deck 使用 ChatGPT Pro）。MIT。
 - [ToseaAI/editable-pptx-skill](https://github.com/ToseaAI/editable-pptx-skill) — *即将发布。* Claude Code / Codex Skill，把 PDF、幻灯片截图或图片发送到 [Reslide](https://reslide.tosea.ai) API，返回可编辑 PPTX。按页计费，新账号有 10 页免费额度。*（由维护本清单的 Tosea.ai 出品。）*
-- Tosea.ai 网页工具，登录后免费使用（免费版每月共享 5 页额度）：[PDF 转 PPT](https://tosea.ai/free-tools/pdf-to-ppt) · [图片转可编辑 PPT](https://tosea.ai/free-tools/image-to-editable-ppt) · [NotebookLM 幻灯片转 PowerPoint](https://tosea.ai/free-tools/notebooklm-slides-to-powerpoint)。
+- Tosea.ai 网页工具，登录后免费使用（免费版每月共享 5 页额度）：[PDF 转 PPT](https://tosea.ai/free-tools/pdf-to-ppt) · [图片转可编辑 PPT](https://tosea.ai/free-tools/image-to-editable-ppt) · [NotebookLM 幻灯片转 PowerPoint](https://tosea.ai/free-tools/notebooklm-slides-to-powerpoint)。免费版的图片转换结果带小水印。
 
 ---
 

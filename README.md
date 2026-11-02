@@ -669,7 +669,7 @@ When a deck relies on things a DOM-to-shape converter can't follow (WebGL backgr
 
 - [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) · 3,217 ⭐ — open-source Codex skill that rebuilds slide images, PDFs and image-based PPTX page by page: OCR'd text becomes native text boxes, simple geometry becomes shapes, complex visuals stay as separate image assets. Runs on your own Codex quota (its README recommends ChatGPT Pro for multi-page decks). MIT.
 - [ToseaAI/editable-pptx-skill](https://github.com/ToseaAI/editable-pptx-skill) — *coming soon.* A Claude Code / Codex skill that sends PDFs, slide screenshots or images to the [Reslide](https://reslide.tosea.ai) API and returns an editable PPTX. Billed per page; new accounts get 10 free pages. *(Made by Tosea.ai, which maintains this list.)*
-- Tosea.ai web tools, free with sign-in (a shared allowance of 5 pages a month on the free plan): [PDF to PPT](https://tosea.ai/free-tools/pdf-to-ppt) · [Image to editable PPT](https://tosea.ai/free-tools/image-to-editable-ppt) · [NotebookLM slides to PowerPoint](https://tosea.ai/free-tools/notebooklm-slides-to-powerpoint).
+- Tosea.ai web tools, free with sign-in (a shared allowance of 5 pages a month on the free plan): [PDF to PPT](https://tosea.ai/free-tools/pdf-to-ppt) · [Image to editable PPT](https://tosea.ai/free-tools/image-to-editable-ppt) · [NotebookLM slides to PowerPoint](https://tosea.ai/free-tools/notebooklm-slides-to-powerpoint). Image conversions on the free plan carry a small watermark.
 
 ---
 
