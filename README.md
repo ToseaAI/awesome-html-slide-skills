@@ -637,6 +637,29 @@ Fights AI-generated mediocrity with a **token-based design system** and a strict
 
 ---
 
+#### 34. [arunai30/super-document-skills](https://github.com/arunai30/super-document-skills) · ⭐ 3
+
+> Agent Skills for evidence-led visual reports, clear explainers, and HTML presentations, with optional publishing through Share Artifacts.
+
+<p align="center">
+  <a href="https://github.com/arunai30/super-document-skills"><img src="https://raw.githubusercontent.com/arunai30/super-document-skills/main/examples/previews/decision-deck-styles.png" width="720" alt="Six styles for the same pricing decision, including forest green with serif titles, a dark keynote, and a coral and sunflower design."/></a>
+  <br><sub>You can ask your agent for a different look each time.</sub>
+</p>
+
+The dedicated **create-html-presentation** skill helps Claude Code or Codex turn source notes into an HTML deck for a decision, product update, roadmap, talk, or lesson. It guides the story, checks claims against the notes, and asks the agent to review every slide. The generated HTML can be opened and edited locally without a Share Artifacts account.
+
+- **Evidence and review:** links to the source notes and published test methods; the model-reviewed results cover specific briefs and agents, rather than a general accuracy guarantee.
+- **Design from the brief:** use a brand guide or describe a look; the screenshot shows six treatments of the same pricing example.
+- **Optional publishing:** local creation is free; Share Artifacts publishing is separate. Primary output is HTML, not editable PPTX.
+- **MIT license.** [Skill source](https://github.com/arunai30/super-document-skills/blob/main/skills/create-html-presentation/SKILL.md) · [Worked examples](https://github.com/arunai30/super-document-skills/tree/main/examples) · [Test methods and results](https://github.com/arunai30/super-document-skills/blob/main/docs/decision-deck-results.md).
+
+```sh
+npx skills add arunai30/super-document-skills --agent claude-code --skill create-html-presentation --copy
+# For Codex, replace claude-code with codex.
+```
+
+---
+
 ## Export to editable PowerPoint (PPTX)
 
 HTML is the better authoring format, but many decks end up with someone who only works in PowerPoint — a client who wants to change the numbers, an event that only accepts `.pptx` uploads, a team whose templates live in Office. "Export to PPTX" can mean two quite different files, so check which one a tool produces:

@@ -641,6 +641,29 @@ AI 原生的 PowerPoint 设计系统——67 layouts · Harness Engineering · B
 
 ---
 
+#### 34. [arunai30/super-document-skills](https://github.com/arunai30/super-document-skills) · ⭐ 3
+
+> Agent Skills for evidence-led visual reports, clear explainers, and HTML presentations, with optional publishing through Share Artifacts.
+
+<p align="center">
+  <a href="https://github.com/arunai30/super-document-skills"><img src="https://raw.githubusercontent.com/arunai30/super-document-skills/main/examples/previews/decision-deck-styles.png" width="720" alt="同一个定价决策的六种风格，包括森林绿衬线标题、深色主题，以及珊瑚色与向日葵黄色设计。"/></a>
+  <br><sub>每次都可以请你的 Agent 尝试不同的视觉风格。</sub>
+</p>
+
+专门的 **create-html-presentation** Skill 帮助 Claude Code 或 Codex 将原始笔记转化为用于决策、产品进展、路线图、演讲或教学的 HTML 演示文稿。它指导叙事、对照笔记核查论断，并要求 Agent 逐页审阅。生成的 HTML 可以在本地打开和编辑，无需 Share Artifacts 账号。
+
+- **证据与审阅：** 提供原始笔记和公开测试方法的链接；模型评审结果只覆盖特定任务与 Agent，并非通用准确性保证。
+- **按需求设计：** 可以提供品牌指南或描述视觉风格；截图展示同一定价示例的六种设计。
+- **可选发布：** 本地创作免费；Share Artifacts 发布服务另计。主要输出为 HTML，而非可编辑的 PPTX。
+- **MIT 许可证。** [Skill 源码](https://github.com/arunai30/super-document-skills/blob/main/skills/create-html-presentation/SKILL.md) · [完整示例](https://github.com/arunai30/super-document-skills/tree/main/examples) · [测试方法与结果](https://github.com/arunai30/super-document-skills/blob/main/docs/decision-deck-results.md)。
+
+```sh
+npx skills add arunai30/super-document-skills --agent claude-code --skill create-html-presentation --copy
+# 使用 Codex 时，将 claude-code 替换为 codex。
+```
+
+---
+
 ## 导出为可编辑 PowerPoint
 
 HTML 更适合创作，但很多 deck 最终要交给只用 PowerPoint 的人——想自己改数字的客户、只收 `.pptx` 的会议或评审、模板都放在 Office 里的团队。「导出 PPTX」可能对应两种很不一样的文件，选工具前先确认它产出的是哪一种：
